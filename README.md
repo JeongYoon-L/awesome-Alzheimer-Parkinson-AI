@@ -1,2 +1,3 @@
 # awesome-Alzheimer-Parkinson-AI
-Collection of papers related to application for Alzheimer and Parkinson
+AI Research Papers for Alzheimer's and Parkinson's
+
